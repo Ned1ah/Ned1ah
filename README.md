@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>Haiden's Git Page</title>
+<title>Haiden's Git Page</title>
 	<style>
 	p.dotted {border-style: dotted;
 	margin-top: 50px;
@@ -18,13 +18,13 @@
 	margin-left: 600px;
 	}
 	
-	body {
+body {
 
-	background-color: black;
+background-color: black;
 	color: purple;
 	font-family: Verdana, sans-serif;
 	
-	}
+}
 	h1 {text-align: center;}
 	h2 {text-align: center;}
 	p {text-align: center;
