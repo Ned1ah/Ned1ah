@@ -71,15 +71,20 @@ may try and re-learn the language, as I recognise what it is capable of if you s
   <br>
   <br>
   Personal Interests: I have various interests not related to what I study, but I struggle to find the time and motivation to commit to most of them.
+<br>
+<br>
   - Video editing/creation: I only have a few properly structed videos made, and I have struggled to both find ideas that I want to make, as well as making the time
   to actually edit a video together. When everything lines up though, I do find the processes of script writing and editing quite satisfying and rewarding, 
   although the sound of my own voice is something I'm really not used to.
   <br>
+  <br>
   - Drawing: I have always had at least some interest in drawing, but I've not found the time or motivation to start properly practising it.
   <br>
+<br>
   - Films and TV: I try to be more critical with the media that I consume, but that's not always appropriate, and I can enjoy a film for what it is if it's apparent
   that there isn't anything to look too deeply into. I particarly enjoy sci-fi and animation, though.
   <br>
+<br>
   - Video games: Something that I've always been interested in, I have a particular appreciation for older titles and, where possible and practical, will try and
   play on their original hardware, although emulation is a fine way to play as well.
    <br>
